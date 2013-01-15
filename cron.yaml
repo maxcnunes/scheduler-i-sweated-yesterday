@@ -1,4 +1,4 @@
 cron:
 - description: send exercise email notifications
   url: /request_send_exercise_notifications
-  schedule: every day 13:00
+  schedule: every day 15:00
